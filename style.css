@@ -1,0 +1,89 @@
+ul{
+	list-style-position: inside;
+	
+}
+
+li{
+	font-size: 20px;
+	text-shadow: 0 0 3px #000;
+	color: white;
+}
+li a {
+	color: white;
+}
+
+p{
+	font-size: 18px;
+	text-align: center;
+	text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+h1{
+	font-family: 'Helvetica Neue', serif;
+	font-weight: bold;
+	text-align: center;
+	background-color: #9400d3;
+	}
+
+h2{ 
+	color: #111; 
+	font-family: 'Open Sans', sans-serif; 
+	font-weight: 300; 
+	text-align: center;
+	background-color: #ee82ee;
+}
+
+h3{
+	color: #111; 
+	font-family: 'Lato', sans-serif; 
+	font-weight: 200; 
+	text-align: center;
+	background-color: #e6e6fa;
+	text-align: center;
+}
+
+.menu {
+  background-color: #4b0082;
+  overflow: hidden; 
+  width :900px; 
+}
+
+
+.menu a {
+  float: left; 
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+
+.menu a:hover {
+  background-color: #fff;
+  color: black;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
